@@ -1,9 +1,6 @@
-# NEWS
+# NewsApp
 
-News App
+- Created the frontend with Flutter and used widgets of material library to create the user interface.
+- Used <a href="https://newsapi.org/">News API</a> to fetch the top head-lines for a particular keyword, as entered by the user.
 
-- Created the frontend with Flutter and used widgets of material library.
-- Used newsapi to display the current news according to the searched keyword by user.
-
-![](./images/front.jpg)
-![](./images/back.jpg)
+<img src="./images/front.jpg" height="500" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/back.jpg" height="500" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/middle.jpg" height="500" width="250">
